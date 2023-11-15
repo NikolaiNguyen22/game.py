@@ -88,6 +88,9 @@ print("Ban la thanh vien Vip cua HRKLD toi " + str((score/9)*100) + "%.")
 
 print('Cam on ban vi da hoan thanh quizzes, chuc ban mot ngay tot lanh ^^')
 
+print('If you like the game please leaves us a feedback')
+
+
 
 
 
