@@ -86,7 +86,7 @@ print("Ban duoc " + str(score)+ " cau dung!")
 
 print("Ban la thanh vien Vip cua HRKLD toi " + str((score/9)*100) + "%.")
 
-print('Cam on ban vi da hoan thanh quizzes, chuc ban mot ngay nhu lon ^^')
+print('Cam on ban vi da hoan thanh quizzes, chuc ban mot ngay tot lanh ^^')
 
 
 
